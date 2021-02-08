@@ -1,11 +1,13 @@
 import axios from "axios";
 
-const URL = "https://randomuser.me/api/";
+
+// const limit = `${limit}`
 // const APIKEY = "";
 
 //exporting default ajax call as axios
 export default {
-  search: function (query) {
-    return axios.get(URL + query);
+  getEmployeeList: function (limit, nat) {
+    const URL = "https://randomuser.me/api/?results="+limit+"&nat="+nat;
+    return axios.get(URL);
   },
 };
