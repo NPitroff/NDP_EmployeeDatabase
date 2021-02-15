@@ -22,4 +22,8 @@ You can contact me at:
 
 # Links
 1. To Github :https://github.com/NPitroff/NDP_EmployeeDatabase
-2. Heroku: 
+2. Heroku: https://ndpendent-employee-database.herokuapp.com/
+
+# Screenshots
+![alt text](public/screenshots/Screenshot1.PNG "Search Landing Page")
+![alt text](public/screenshots/Screenshot2.PNG "Input Search Term")
