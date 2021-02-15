@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# NDPendentCoder_Employee_Directory
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is meant to showcase not only the "React" App, but its functionality to create a working web page and dynamically filter through a list of employees.
 
-## Available Scripts
+# Tools Used
+1. React 
+2. API "https://randomuser.me/api/"
 
-In the project directory, you can run:
+# Uses
+This can be used as an example to show how you can pull from a list of users and or employees to create readable cards for all of them and the necessary data you would like to display in either a classified or non classified way. 
 
-### `npm start`
+This also shows how fast the react virtual dom is able to compute any data changes and display it immediately to the webpage without taxing the users on the front end. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Thanks
+Many thanks to my tutor, Namita, and my instructors Lee and Chad for helping me to understand React and its many uses in the world of web-building. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Contact
+You can contact me at:
+1. Email: nicolai.pitroff@gmail.com
+2. github: https://github.com/NPitroff/
+3. Linked-In: https://www.linkedin.com/in/nicolaipitroff/
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Links
+1. To Github :https://github.com/NPitroff/NDP_EmployeeDatabase
+2. Heroku: 
