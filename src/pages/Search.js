@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import API from "../utils/API";
+import {getEmployeeList} from "../utils/API";
 import Container from "../components/Container";
 import SearchForm from "../components/SearchForm";
 import SearchResults from "../components/SearchResults";
@@ -15,7 +15,7 @@ class Search extends Component {
 
   // When the component mounts, get a list of all available base breeds and update this.state.breeds
   componentDidMount() {
-    API.getEmployeeList(20, "US")
+    getEmployeeList(20, "US")
       .then((res) => {
         console.log(res);
         this.setState({
